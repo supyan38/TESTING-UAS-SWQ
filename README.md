@@ -1,4 +1,4 @@
-# 🔍 Tugas Pengujian Perangkat Lunak (White Box, Black Box, Grey Box)
+# 🔍 Pengujian Perangkat Lunak (White Box, Black Box, Grey Box)
 
 # 📋 TodoList App & Software Testing Project
 
