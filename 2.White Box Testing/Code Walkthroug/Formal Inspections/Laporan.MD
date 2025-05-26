@@ -1,5 +1,3 @@
----
-
 **📘 Definisi :**
 Code Walkthrough adalah **review kode secara informal maupun formal**, yang dilakukan oleh developer bersama tim untuk:
 
@@ -7,7 +5,6 @@ Code Walkthrough adalah **review kode secara informal maupun formal**, yang dila
 * Mengidentifikasi potensi error
 * Meningkatkan kualitas program
 
----
 
 ### ✅ Tujuan Code Walkthrough
 
