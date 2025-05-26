@@ -1,6 +1,6 @@
 ---
 
-**📘 Definisi:**
+**📘 Definisi :**
 Code Walkthrough adalah **review kode secara informal maupun formal**, yang dilakukan oleh developer bersama tim untuk:
 
 * Memahami logika kode
@@ -14,9 +14,12 @@ Code Walkthrough adalah **review kode secara informal maupun formal**, yang dila
 * Bukan untuk "mengevaluasi hasil akhir" seperti pengujian fungsional
 * Tapi untuk **meninjau dan berdiskusi langsung logika program**
 
+
 ---
 
 ### 📌 Contoh Code Walkthrough dari Fungsi `addTodo()`
+
+Mari kita simulasikan prosesnya dengan gaya presentasi:
 
 ---
 
@@ -62,12 +65,12 @@ function addTodo() {
 
 ### ✅ Perbaikan yang Diusulkan Saat Walkthrough:
 
-javascript
+```javascript
 if (textTodo.trim() === "" || timestamp.trim() === "") {
   alert("Title dan tanggal tidak boleh kosong!");
   return;
 }
-
+```
 
 ---
 
