@@ -16,9 +16,6 @@ Code Walkthrough adalah **review kode secara informal maupun formal**, yang dila
 
 ### 📌 Contoh Code Walkthrough dari Fungsi `addTodo()`
 
-Mari kita simulasikan prosesnya dengan gaya presentasi:
-
----
 
 🧠 **Fungsi**:
 
