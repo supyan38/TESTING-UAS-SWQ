@@ -23,9 +23,8 @@ Memberikan solusi ringan dan cepat untuk pengguna dalam:
 - Data tetap tersimpan setelah browser ditutup
 
 ## 📁 Struktur File
-
--Asset
--Css - style.css
-index.html
-script.js
+- Asset
+- Css - style.css
+  index.html
+  script.js
 
