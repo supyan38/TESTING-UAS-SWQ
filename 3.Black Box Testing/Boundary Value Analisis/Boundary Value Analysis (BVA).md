@@ -19,5 +19,4 @@ Dilakukan pengujian terhadap batas input `judul` dan `tanggal` pada form tambah 
 
 ## 📝 Catatan
 - Pengujian dilakukan secara manual menggunakan browser.
-- Validasi dilakukan berdasarkan tampilan DOM dan efek perubahan pada `localStorage`.
 
