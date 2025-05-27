@@ -15,10 +15,10 @@ TodoList App mendukung fitur seperti:
 ---
 
 Repositori ini dibuat untuk memenuhi tugas mata kuliah **Pengujian Perangkat Lunak**. Kami melakukan **pengujian software** yang kami kembangkan menggunakan tiga pendekatan utama:
-- ✅ Pembuatan Software
-- ✅ White Box Testing
+- 💻 Pembuatan Software
+- ⚪ White Box Testing
 - ⚫ Black Box Testing
-- ⚪ Grey Box Testing
+- 🔘 Grey Box Testing
 
 ---
 
