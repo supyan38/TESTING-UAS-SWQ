@@ -10,7 +10,7 @@ Pengujian dilakukan dengan menambahkan lebih dari 100 task secara berturut-turut
 
 ## 📌 Hasil
 
-<video src="https://github.com/user-attachments/assets/e440171c-4f3b-4233-95bb-5045b1afde90"/video.mp4" controls width="500"></video>
+<video src="https://github.com/user-attachments/assets/e440171c-4f3b-4233-95bb-5045b1afde90" controls width="500"></video>
 
 
 - Tidak terjadi lag signifikan
