@@ -13,7 +13,7 @@ Pengujian difokuskan pada logika hubungan antara input pengguna dan reaksi siste
 
 | No | Kondisi | Aksi | Expected Effect | Actual Result | Status | Bukti Gambar |
 |----|---------|------|------------------|----------------|--------|---------------|
-| 1 | Field kosong | Submit | Tidak menambahkan task | Tidak terjadi apa-apa | ✅ | ![img](https://via.placeholder.com/300x100?text=Cause+1) |
-| 2 | Field valid | Submit | Task muncul di daftar | Task muncul | ✅ | ![img](https://via.placeholder.com/300x100?text=Cause+2) |
-| 3 | Klik centang | - | Task pindah ke selesai | Task pindah | ✅ | ![img](https://via.placeholder.com/300x100?text=Cause+3) |
-| 4 | Klik undo | - | Task kembali ke belum selesai | Task kembali | ✅ | ![img](https://via.placeholder.com/300x100?text=Cause+4) |
+| 1 | Field kosong | Submit | Tidak menambahkan task | Tidak terjadi apa-apa | ✅ | poto |
+| 2 | Field valid | Submit | Task muncul di daftar | Task muncul | ✅ | poto |
+| 3 | Klik centang | - | Task pindah ke selesai | Task pindah | ✅ | poto |
+| 4 | Klik undo | - | Task kembali ke belum selesai | Task kembali | ✅ | poto |
