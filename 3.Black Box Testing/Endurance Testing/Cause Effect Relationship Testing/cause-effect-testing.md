@@ -17,3 +17,7 @@ Pengujian difokuskan pada logika hubungan antara input pengguna dan reaksi siste
 | 2 | Field valid | Submit | Task muncul di daftar | Task muncul | ✅ | <img width="300" src="https://github.com/user-attachments/assets/eee38743-f1c2-446a-aedd-6aaf9b9d1fef" /> |
 | 3 | Klik centang | - | Task pindah ke selesai | Task pindah | ✅ | <img width="300" src="https://github.com/user-attachments/assets/2583b5d0-ab18-47d6-8958-33f2d6719789" /> |
 | 4 | Klik undo | - | Task kembali ke belum selesai | Task kembali | ✅ | <img width="300" src="https://github.com/user-attachments/assets/7aecf097-1ec9-4b68-8276-92ad7897fce5" /> |
+
+## 📊 Diagram Cause-Effect
+
+<img width="500" src="https://github.com/user-attachments/assets/e870ab93-eb5f-4b4b-aedf-139a66799e56" />
