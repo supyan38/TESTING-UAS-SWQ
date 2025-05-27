@@ -17,6 +17,3 @@ Dilakukan pengujian terhadap batas input `judul` dan `tanggal` pada form tambah 
 | 3 | `Valid Task` | *(kosong)* | Error: tanggal wajib diisi | Tidak muncul task | ✅ |<img width="300" alt="image" src="https://github.com/user-attachments/assets/d102e2f2-9358-4bfc-9d7c-455108eab31c" />
 
 
-## 📁 Struktur Folder Gambar
-Jika kamu ingin menyimpan bukti gambar secara lokal, gunakan struktur berikut:
-
