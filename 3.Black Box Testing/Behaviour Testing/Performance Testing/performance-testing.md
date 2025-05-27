@@ -18,4 +18,12 @@ Pengujian dilakukan dengan memanfaatkan Chrome DevTools untuk mengukur waktu eks
 | Pindah task (centang) | ±30ms | ✅ |
 | Hapus task | ±40ms | ✅ |
 
-**Tools:** Chrome DevTools > Network & Performance tab
+## 🔎 Hasil Uji PageSpeed Insight
+<img width="600" src="https://github.com/user-attachments/assets/9b983cec-f039-4e20-a1dc-41084d2ec796" />
+
+
+**Tools:** 
+- Chrome DevTools > Network & Performance tab
+- PageSpeed Insight
+
+
