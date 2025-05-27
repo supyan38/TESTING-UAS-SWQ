@@ -26,8 +26,8 @@ Repositori ini dibuat untuk memenuhi tugas mata kuliah **Pengujian Perangkat Lun
 
 | No | Nama Anggota       | NIM         | Peran                            |
 |----|--------------------|-------------|----------------------------------|
-| 1  | M. Sunandi         | 20221310071 | White Box Testing                |
-| 2  | Muhammad Supyan    | 20221310078 | Pengembang Software              |
+| 1  | Muhammad Supyan    | 20221310078 | Pengembang Software              |
+| 2  | M. Sunandi         | 20221310071 | White Box Testing                |
 | 3  | Santi Febrianti    | 20221310084 | Black Box Testing                |
 | 4  | Udan               | 20221310088 | Grey Box Testing                 |
 
