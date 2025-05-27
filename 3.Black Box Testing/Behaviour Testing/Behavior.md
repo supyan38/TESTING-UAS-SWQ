@@ -12,8 +12,7 @@ Dilakukan pengujian terhadap batas input `judul` dan `tanggal` pada form tambah 
 
 | No | Input Judul | Input Tanggal | Expected Result | Actual Result | Status | Bukti Gambar |
 |----|-------------|----------------|------------------|----------------|--------|---------------|
-| 1 | `A` (1 karakter) | `2025-01-01` | Task berhasil ditambah | Task muncul di daftar | ✅ | <img width="959" alt="image" src="https://github.com/user-attachments/assets/06beb652-2372-432c-a53f-08334550f5e0" />
-
+| 1 | `A` (1 karakter) | `2025-01-01` | Task berhasil ditambah | Task muncul di daftar | ✅ |<img width="959" alt="image" src="https://github.com/user-attachments/assets/49c603b6-2aae-41f9-a50c-30f80ed038f6" />
  |
 | 2 | *(kosong)* | `2025-01-01` | Error: judul tidak boleh kosong | Task tidak ditambah | ✅ | ![TC2](./img/tc2-judul-kosong.png) |
 | 3 | `A...A` (256 karakter) | `2025-01-01` | Error: input terlalu panjang | Tidak diproses | ✅ | ![TC3](./img/tc3-panjang.png) |
