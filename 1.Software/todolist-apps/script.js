@@ -37,8 +37,6 @@ function generateId() {
   const todos = [];
   const RENDER_EVENT = 'render-todo';
 
-
-
 function makeTodo(todoObject) {
   const textTitle = document.createElement('h2');
   textTitle.innerText = todoObject.task;
