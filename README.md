@@ -67,6 +67,13 @@ Repositori ini dibuat untuk memenuhi tugas mata kuliah **Pengujian Perangkat Lun
 
 ---
 
+## 💻 App
+### Link todolist-app
+https://todolist-uas-swq.netlify.app/
+
+
+---
+
 ## 📌 Catatan
 
 - Semua laporan pengujian dikerjakan secara terpisah berdasarkan metode masing-masing.
