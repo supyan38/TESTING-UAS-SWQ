@@ -14,7 +14,7 @@ Pengujian ini bertujuan memastikan bahwa input `judul` dan `tanggal` diperlakuka
 
 | No | Input Judul | Input Tanggal | Kelas | Expected Result | Actual Result | Status | Bukti Gambar |
 |----|-------------|----------------|--------|------------------|----------------|--------|---------------|
-| 1 | `Belajar SQA` | `2025-01-01` | Valid | Task berhasil ditambahkan | Task muncul di daftar | ✅<img width="960" alt="image" src="https://github.com/user-attachments/assets/36d95fa7-5600-4a58-a98a-bd4a66189c89" />
+| 1 | `Belajar SQA` | `2025-01-01` | Valid | Task berhasil ditambahkan | Task muncul di daftar | ✅ | <img width="960" alt="image" src="https://github.com/user-attachments/assets/36d95fa7-5600-4a58-a98a-bd4a66189c89" />
 | 2 | *(kosong)* | `2025-01-01` | Tidak Valid (judul kosong) | Ditolak oleh HTML form | Tidak ditambahkan | ✅ | <img width="300" src="https://github.com/user-attachments/assets/eqa-invalid-judul.png" /> |
 | 3 | `!!!@#` | `2025-01-01` | Valid (judul simbol) | Task diterima | Task muncul di daftar | ✅ | <img width="300" src="https://github.com/user-attachments/assets/eqa-symbol-judul.png" /> |
 | 4 | `Tugas` | *(kosong)* | Tidak Valid (tanggal kosong) | Ditolak oleh HTML form | Tidak ditambahkan | ✅ | <img width="300" src="https://github.com/user-attachments/assets/eqa-invalid-tanggal.png" /> |
