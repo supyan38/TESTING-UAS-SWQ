@@ -12,16 +12,12 @@ Dilakukan pengujian terhadap batas input `judul` dan `tanggal` pada form tambah 
 
 | No | Input Judul | Input Tanggal | Expected Result | Actual Result | Status | Bukti Gambar |
 |----|-------------|----------------|------------------|----------------|--------|---------------|
-| 1 | `A` (1 karakter) | `2025-01-01` | Task berhasil ditambah | Task muncul di daftar | ✅ |<img width="959" alt="image" src="https://github.com/user-attachments/assets/49c603b6-2aae-41f9-a50c-30f80ed038f6" />
- |
-| 2 | *(kosong)* | `2025-01-01` | Error: judul tidak boleh kosong | Task tidak ditambah | ✅ |<img width="959" alt="image" src="https://github.com/user-attachments/assets/b3a6ae87-10e6-4cdf-99e9-8070238f6261" />
-
-| 3 | `A...A` (256 karakter) | `2025-01-01` | Error: input terlalu panjang | Tidak diproses | ✅ <img width="958" alt="image" src="https://github.com/user-attachments/assets/fcb16619-4886-4ec2-a6aa-82201d6bef3d" />
-
-| 4 | `Valid Task` | *(kosong)* | Error: tanggal wajib diisi | Tidak muncul task | ✅ <img width="958" alt="image" src="https://github.com/user-attachments/assets/40c1e2e7-5dfd-478f-ba7f-9fd16b7c4c45" />
-|
-| 5 | `Valid Task` | `invalid-date` | Error: format tanggal salah | Tidak diproses | ✅ |<img width="958" alt="image" src="https://github.com/user-attachments/assets/1e3deae6-cdea-4146-97f5-b087db7f1767" />
+| 1 | `A` (1 karakter) | `2025-01-01` | Task berhasil ditambah | Task muncul di daftar | ✅ | <img width="300" src="https://github.com/user-attachments/assets/49c603b6-2aae-41f9-a50c-30f80ed038f6" /> |
+| 2 | *(kosong)* | `2025-01-01` | Error: judul tidak boleh kosong | Task tidak ditambah | ✅ | <img width="300" src="https://github.com/user-attachments/assets/b3a6ae87-10e6-4cdf-99e9-8070238f6261" /> |
+| 3 | `A...A` (256 karakter) | `2025-01-01` | Error: input terlalu panjang | Tidak diproses | ✅ | <img width="300" src="https://github.com/user-attachments/assets/fcb16619-4886-4ec2-a6aa-82201d6bef3d" /> |
+| 4 | `Valid Task` | *(kosong)* | Error: tanggal wajib diisi | Tidak muncul task | ✅ | <img width="300" src="https://github.com/user-attachments/assets/40c1e2e7-5dfd-478f-ba7f-9fd16b7c4c45" /> |
+| 5 | `Valid Task` | `invalid-date` | Error: format tanggal salah | Tidak diproses | ✅ | <img width="300" src="https://github.com/user-attachments/assets/1e3deae6-cdea-4146-97f5-b087db7f1767" /> |
 
 ## 📁 Struktur Folder Gambar
-Letakkan semua gambar di dalam folder `img/` di dalam direktori ini, contoh:
- 
+Jika kamu ingin menyimpan bukti gambar secara lokal, gunakan struktur berikut:
+
