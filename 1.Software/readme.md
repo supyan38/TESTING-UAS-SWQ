@@ -24,9 +24,8 @@ Memberikan solusi ringan dan cepat untuk pengguna dalam:
 
 ## 📁 Struktur File
 
->Asset
->Css
-|- style.css
+-Asset
+-Css - style.css
 index.html
 script.js
 
