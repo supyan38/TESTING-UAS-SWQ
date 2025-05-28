@@ -34,7 +34,7 @@ Pada tahap ini terdapat dua faktor sesui input yang digunakan yaitu Judul  tugas
 | 9        |kosong                                    | kosong            | Gagal submit, validasi gagal form tidak dapat menyimpan input data|
 
 ---
-Pada 9 pengujian tersebut terdapat 4 sukses dan 5 gagal dalam melakukan input data. hal ini disebebkan karena:
+Pada 9 pengujian tersebut terdapat 4 sukses dan 5 gagal dalam melakukan input data, kegagalan disebebkan karena:
 - Judul kosong, karena input required sehingga form harus menolak submit
 - Tanggal kosong , karena input required sehingga form harus menolak submit
 Kemudian pengujian ini dilakukan dengan menuliskan judul panjang dan penduk hal ini mengecek untuk memastikan aplikasi bisa handle cerita yang panang atau pendek, kemudian pada waktu dilakukan uji pada hari ini dan tanggal mendatang untuk memastikan tanggal yang valid diterima.
