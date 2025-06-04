@@ -26,7 +26,7 @@ Melakukan **Control Flow Testing** dan **Basic Path Testing** pada fungsi `addTo
 
 ## 📉 Flowchart
 
-![Flowchart addTodo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAdQAAAH0CAYAAADfmcUeAAAgAElEQVR4nOzdeXgcx5nv/eeJEF...TRUNCATED...)
+![Flowchart addTodo](flowchart.png)
 
 > 📝 *Gambar flowchart sudah ditempel langsung secara base64.*
 
