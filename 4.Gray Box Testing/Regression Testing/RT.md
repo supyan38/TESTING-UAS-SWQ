@@ -23,7 +23,7 @@ Berikut tampilan implementasi pengujian pada penambahan fitur search:
 ## 2. Memperbaiki Bug dan Gangguan
 Tidak ditemukan bug fungsional utama sebelum penambahan fitur. Namun, dilakukan code inspection untuk memastikan bahwa input kosong atau tanggal yang tidak valid tetap dicegah melalui atribut required. Pengujian regresi menunjukkan bahwa semua validasi form tetap berjalan sebagaimana mestinya.
 
-![after](image3.png)
+![noerror](image3.png)
 
 Form sudah menerapkan atribut HTML required pada elemen input untuk judul (#title) dan tanggal (#date), yang berarti form tidak dapat disubmit dengan data kosong atau tidak valid. Setelah penambahan fitur pencarian, dilakukan pengujian regresi untuk memastikan validasi ini tetap berjalan normal dan tidak terganggu oleh fitur baru.
 
