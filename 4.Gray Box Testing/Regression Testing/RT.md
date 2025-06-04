@@ -33,7 +33,7 @@ Hasil pengujian menunjukkan bahwa seluruh alur aplikasi, termasuk validasi input
 
 Pada tahap penambahan fitur pencarian (search), dilakukan perubahan kecil pada struktur HTML dan JavaScript sebagai bagian dari pengujian regresi terhadap infrastruktur aplikasi. Berikut adalah alur perubahan dan validasinya:
 
-Perubahan HTML (Struktur Tampilan)
+# Perubahan HTML (Struktur Tampilan)
 Elemen *<input type="text" id="search" placeholder="Cari tugas...">*  ditambahkan di luar elemen <form> agar tidak ikut tersubmit saat pengguna menekan Enter.
 
 ![strukturhtml](image4.png)
@@ -42,7 +42,7 @@ Posisi elemen search diletakkan sebelum daftar todo untuk kenyamanan pengguna.
 
 Karena elemen search tidak termasuk form, maka tidak terjadi konflik dengan mekanisme submit form bawaan.
 
-Perubahan JavaScript (Struktur Logika)
+# Perubahan JavaScript (Struktur Logika)
 Ditambahkan *addEventListener('input', ...)* pada elemen *#search* untuk menangkap input real-time.
 
 ![strukturjs](image5.png)
@@ -51,23 +51,23 @@ Ditambahkan fungsi filterTodos(keyword) yang memfilter array todos berdasarkan k
 
 Fungsi ini dipanggil bersamaan dengan RENDER_EVENT, namun tidak memodifikasi fungsi utama seperti:
 
-addTodo()
+- addTodo()
 
-removeTaskFromCompleted()
+- removeTaskFromCompleted()
 
-saveData()
+- saveData()
 
-💾 Validasi LocalStorage
+# Validasi LocalStorage
 LocalStorage (TODO_APPS) tetap menyimpan data todo sesuai format lama tanpa perubahan struktur data.
 
 Tidak ada konflik penyimpanan atau duplikasi data akibat fitur baru karena pencarian hanya dilakukan pada tampilan (client-side filtering), bukan manipulasi data utama.
 
-✅ Hasil Pengujian
-Alur CRUD (Create, Read, Update, Delete) todo masih berfungsi normal.
+# Hasil Pengujian
+- Alur CRUD (Create, Read, Update, Delete) todo masih berfungsi normal.
 
-Fungsi pencarian tidak mengubah state data asli.
+- Fungsi pencarian tidak mengubah state data asli.
 
-Tidak ditemukan regresi, crash, atau efek samping negatif dari penambahan struktur elemen dan fungsi baru.
+- Tidak ditemukan regresi, crash, atau efek samping negatif dari penambahan struktur elemen dan fungsi baru.
 
 
 
