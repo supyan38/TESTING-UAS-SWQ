@@ -27,11 +27,11 @@ mungkin terlewatkan oleh tes formal.
 
 ## 3. Menguji Performa dan Stabilitas
 
-| No | Langkah Uji         | Deskripsi                       | Harapan             | Hasil                    | Status            |
-| -- | ------------------- | ------------------------------- | ------------------- | ------------------------ | ----------------- |
-| 1  | Tambah 100 Todo     | Loop tambah data dummy          | App tetap responsif | Sedikit delay render     | ⚠️ Perlu optimasi |
-| 2  | Reload Halaman      | Setelah menambah data           | Data tetap ada      | Muncul dari localStorage | ✅ Lulus           |
-| 3  | Klik cepat berulang | Klik tombol centang/trash cepat | Tidak crash         | Tidak error              | ✅ Lulus           |
+| No | Langkah Uji         | Deskripsi                       | Harapan             | Hasil                          | Status       |
+| -- | ------------------- | ------------------------------- | ------------------- | ------------------------------ | ------------ |
+| 1  | Tambah 100 Todo     | Loop tambah data dummy          | App tetap responsif | App dapat menampilkan 100 todo | ✅ Lulus    |
+| 2  | Reload Halaman      | Setelah menambah data           | Data tetap ada      | Muncul dari localStorage       | ✅ Lulus    |
+| 3  | Klik cepat berulang | Klik tombol centang/trash cepat | Tidak crash         | Tidak error                    | ✅ Lulus    |
 
 ## 4. Menguji Kegunaan dan Pengalaman Pengguna (UX)
 
