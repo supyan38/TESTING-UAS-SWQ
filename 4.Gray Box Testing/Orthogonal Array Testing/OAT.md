@@ -21,9 +21,9 @@ Pada tahap ini terdapat dua faktor sesui input yang digunakan yaitu Judul  tugas
 ## 2. Matriks kasus uji
    Berdasarkan faktor dan level uji yang sudah dibuat, maka dapat dilakukan matriks kasus uji yaitu 9 kasuas uji. kasus uji ini dilakukan dengan memasangkan dua faktor dengan beberapa kasus pada level yang berbeda. berikut tabel pengujiannya:
    
-|Kasus Uji | Judul Tugas                              | Tanggal Deadline  | Hasil Pengujian                                                   |
-|----------|------------------------------------------|-------------------|-------------------------------------------------------------------|
-| 1        |Pendek "membaca"                          | Hari ini          | Sukses tambah tode list, dan muncul di daftar yang harus dilakukan|
+|Kasus Uji | Judul Tugas                              | Tanggal Deadline  | Hasil Pengujian                                                   | Hasil         |
+|----------|------------------------------------------|-------------------|-------------------------------------------------------------------|---------------|
+| 1        |Pendek "membaca"                          | Hari ini          | Sukses tambah tode list, dan muncul di daftar yang harus dilakukan| ![P1](P1.png) |
 | 2        |Pendek "membaca"                          | Tanggal mendatang | Sukses tambah tode list, dan muncul di daftar yang harus dilakukan|
 | 3        |Pendek "membaca"                          | kosong            | Gagal submit, validasi gagal form tidak dapat menyimpan input data|
 | 4        |Panjang "membaca buku sejarah penjajahan" | Hari ini          | Sukses tambah tode list, dan muncul di daftar yang harus dilakukan|
