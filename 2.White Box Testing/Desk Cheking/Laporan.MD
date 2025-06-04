@@ -3,8 +3,6 @@
 **Aplikasi**: Todo List Sederhana  
 **Metode Pengujian**: White Box Testing – Desk Checking  
 **Tanggal**: 4 Juni 2025  
-**Penguji**: Sunandi  
-**NPM**: 20221310071
 
 ---
 
