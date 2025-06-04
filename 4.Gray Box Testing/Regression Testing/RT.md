@@ -27,7 +27,7 @@ Tidak ditemukan bug fungsional utama sebelum penambahan fitur. Namun, dilakukan 
 
 Form sudah menerapkan atribut HTML required pada elemen input untuk judul (#title) dan tanggal (#date), yang berarti form tidak dapat disubmit dengan data kosong atau tidak valid. Setelah penambahan fitur pencarian, dilakukan pengujian regresi untuk memastikan validasi ini tetap berjalan normal dan tidak terganggu oleh fitur baru.
 
-Hasil pengujian menunjukkan bahwa seluruh alur aplikasi, termasuk validasi input, rendering data, dan penyimpanan ke localStorage—masih berfungsi dengan baik. Dengan demikian, tidak ada regresi atau gangguan pada fungsionalitas yang sudah ada.
+Hasil pengujian menunjukkan bahwa seluruh alur aplikasi, termasuk validasi input, rendering data, dan penyimpanan ke localStorage masih berfungsi dengan baik. Dengan demikian, tidak ada regresi atau gangguan pada fungsionalitas yang sudah ada.
 
 
 
