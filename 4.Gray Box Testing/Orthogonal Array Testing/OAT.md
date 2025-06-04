@@ -23,8 +23,8 @@ Pada tahap ini terdapat dua faktor sesui input yang digunakan yaitu Judul  tugas
    
 |Kasus Uji | Judul Tugas                              | Tanggal Deadline  | Hasil Pengujian                                                   | Hasil         |
 |----------|------------------------------------------|-------------------|-------------------------------------------------------------------|---------------|
-| 1        |Pendek "membaca"                          | Hari ini          | Sukses tambah tode list, dan muncul di daftar yang harus dilakukan|  <img width="300" src="https://github.com/user-attachments/assets/72ca8562-e996-4fb7-b272-fa0a52cf7c50" /> |
-| 2        |Pendek "membaca"                          | Tanggal mendatang | Sukses tambah tode list, dan muncul di daftar yang harus dilakukan|
+| 1        |Pendek "membaca"                          | Hari ini          | Sukses tambah tode list, dan muncul di daftar yang harus dilakukan|  <img width="300" src="https://github.com/user-attachments/assets/b212b9b4-93c4-4cc0-b8ea-f40880066071" /> |
+| 2        |Pendek "membaca"                          | Tanggal mendatang | Sukses tambah tode list, dan muncul di daftar yang harus dilakukan| <img width="300" src="https://github.com/user-attachments/assets/8a0c171a-107e-4e2e-b5e1-7ad93cd86df8" /> |
 | 3        |Pendek "membaca"                          | kosong            | Gagal submit, validasi gagal form tidak dapat menyimpan input data|
 | 4        |Panjang "membaca buku sejarah penjajahan" | Hari ini          | Sukses tambah tode list, dan muncul di daftar yang harus dilakukan|
 | 5        |Panjang "membaca buku sejarah penjajahan" | tanggal mendatang | Sukses tambah tode list, dan muncul di daftar yang harus dilakukan|
