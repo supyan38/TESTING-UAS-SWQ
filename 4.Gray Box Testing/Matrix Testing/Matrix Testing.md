@@ -40,7 +40,7 @@ Input valid atau tidak
 
 - Todo berpindah status atau tidak
 
-- Todo tampil atau tidak di DOM
+- Todo tampil atau tidak di DOm
 
 ## 2. Tabel Matriks
 
