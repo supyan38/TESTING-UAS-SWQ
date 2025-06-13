@@ -1,6 +1,6 @@
 ## Pengujian Orthogonal Array Testing
 
-Pengujian Array Ortogonal (OAT) adalah teknik pengujian perangkat lunak yang
+Pengujian Array Ortogonal (OAT) merupakan teknik pengujian perangkat lunak yang
 menggunakan array ortogonal untuk membuat kasus uji. Ini adalah pendekatan
 pengujian statistik yang sangat berguna ketika sistem yang akan diuji memiliki input
 data yang besar. Pengujian susunan ortogonal membantu memaksimalkan cakupan
